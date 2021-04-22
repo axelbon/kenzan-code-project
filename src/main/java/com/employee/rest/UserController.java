@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
 public class UserController {
 
     @PostMapping(value = "login")
-    public User login(@RequestParam("user") String username, @RequestParam("password") String pwd) {
+    public User login(@RequestParam("username") String username, @RequestParam("password") String pwd) {
 
         String token = getJWTToken(username);
         User user = new User();
