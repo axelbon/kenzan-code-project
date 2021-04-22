@@ -1,0 +1,7 @@
+insert into employee (first_name,middle_initial, last_name, date_birth, date_employment, status, created_at, updated_at)values('Jon', 'D', 'Smith', NOW(), NOW(), 'active', NOW(), NOW());
+insert into employee (first_name,middle_initial, last_name, date_birth, date_employment, status, created_at, updated_at)values('George', 'R', 'Miller', NOW(), NOW(), 'active', NOW(), NOW());
+insert into employee (first_name,middle_initial, last_name, date_birth, date_employment, status, created_at, updated_at)values('Martin', 'D', 'Smith', NOW(), NOW(), 'active', NOW(), NOW());
+insert into employee (first_name,middle_initial, last_name, date_birth, date_employment, status, created_at, updated_at)values('Juan', 'D', 'Davis', NOW(), NOW(), 'active', NOW(), NOW());
+insert into employee (first_name,middle_initial, last_name, date_birth, date_employment, status, created_at, updated_at)values('Lucy', 'D', 'Taylor', NOW(), NOW(), 'active', NOW(), NOW());
+insert into employee (first_name,middle_initial, last_name, date_birth, date_employment, status, created_at, updated_at)values('Bruce', 'D', 'Smith', NOW(), NOW(), 'active', NOW(), NOW());
+insert into employee (first_name,middle_initial, last_name, date_birth, date_employment, status, created_at, updated_at)values('Clark', 'D', 'Williams', NOW(), NOW(), 'active', NOW(), NOW());
